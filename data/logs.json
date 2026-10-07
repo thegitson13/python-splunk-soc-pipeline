@@ -1,0 +1,3461 @@
+[
+    {
+        "timestamp": "2026-10-06T23:51:50.551640+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:11:44.551672+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:20:37.551679+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:29:36.551682+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:55:07.551686+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:34:35.551689+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:14:06.551692+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:27.551695+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:49:11.551699+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:40:14.551704+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:18:50.551707+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:54:24.551710+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:30:28.551712+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:26:44.551716+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:12.551719+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:33:05.551721+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:55.551724+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:05:12.551726+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:55.551729+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:59:51.551732+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:39:12.551734+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:07:04.551737+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:30:23.551740+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:11:23.551742+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:14:27.551745+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:57:58.551747+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:22:11.551750+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:27:32.551753+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:54:17.551757+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:31:24.551760+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:54:57.551762+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:14:46.551765+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:07:58.551768+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:53:08.551770+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:28:47.551773+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:38:00.551776+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:51:16.551779+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:12:55.551781+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:03:08.551784+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:14:11.551786+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:21:59.551789+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:44:31.551792+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:19:34.551794+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:30:08.551797+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:19:47.551799+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:21:25.551802+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:15:08.551805+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:21:40.551807+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:35:37.551811+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:57:23.551814+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:07:10.551816+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:31:53.551819+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:17:37.551821+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:19:19.551824+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:43:22.551827+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:57:52.551829+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:32.551832+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:23:18.551835+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:32:30.551837+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:04:46.551840+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:33:53.551842+00:00",
+        "event_type": "successful_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:08:21.551845+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:54:23.551847+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:37:42.551850+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:31.551853+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:27:01.551855+00:00",
+        "event_type": "successful_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:26:54.551858+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:12:24.551861+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:11:50.551864+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:29:10.551866+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:56:10.551869+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:37:07.551871+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:58:59.551874+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:48:53.551877+00:00",
+        "event_type": "successful_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:52:10.551879+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:55:36.551882+00:00",
+        "event_type": "successful_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:09:56.551884+00:00",
+        "event_type": "successful_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:25:16.551890+00:00",
+        "event_type": "failed_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "failure",
+        "failure_reason": "expired_password"
+    },
+    {
+        "timestamp": "2026-10-06T23:46:32.551894+00:00",
+        "event_type": "failed_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "failure",
+        "failure_reason": "unknown_user"
+    },
+    {
+        "timestamp": "2026-10-07T00:24:46.551898+00:00",
+        "event_type": "failed_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "failure",
+        "failure_reason": "expired_password"
+    },
+    {
+        "timestamp": "2026-10-07T00:29:07.551901+00:00",
+        "event_type": "failed_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "failure",
+        "failure_reason": "account_locked"
+    },
+    {
+        "timestamp": "2026-10-07T00:22:45.551910+00:00",
+        "event_type": "failed_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "failure",
+        "failure_reason": "bad_password"
+    },
+    {
+        "timestamp": "2026-10-06T23:53:45.551913+00:00",
+        "event_type": "failed_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "failure",
+        "failure_reason": "expired_password"
+    },
+    {
+        "timestamp": "2026-10-07T00:08:06.551916+00:00",
+        "event_type": "failed_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "failure",
+        "failure_reason": "bad_password"
+    },
+    {
+        "timestamp": "2026-10-07T00:23:44.551920+00:00",
+        "event_type": "failed_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "failure",
+        "failure_reason": "unknown_user"
+    },
+    {
+        "timestamp": "2026-10-07T00:28:04.551923+00:00",
+        "event_type": "failed_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "failure",
+        "failure_reason": "account_locked"
+    },
+    {
+        "timestamp": "2026-10-07T00:31:49.551926+00:00",
+        "event_type": "failed_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "failure",
+        "failure_reason": "expired_password"
+    },
+    {
+        "timestamp": "2026-10-07T00:20:50.551930+00:00",
+        "event_type": "failed_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "failure",
+        "failure_reason": "bad_password"
+    },
+    {
+        "timestamp": "2026-10-06T23:53:43.551933+00:00",
+        "event_type": "failed_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "failure",
+        "failure_reason": "expired_password"
+    },
+    {
+        "timestamp": "2026-10-07T00:03:58.551936+00:00",
+        "event_type": "failed_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "failure",
+        "failure_reason": "bad_password"
+    },
+    {
+        "timestamp": "2026-10-07T00:36:53.551939+00:00",
+        "event_type": "failed_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "failure",
+        "failure_reason": "unknown_user"
+    },
+    {
+        "timestamp": "2026-10-07T00:21:48.551942+00:00",
+        "event_type": "failed_login",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "department": "Marketing",
+        "status": "failure",
+        "failure_reason": "expired_password"
+    },
+    {
+        "timestamp": "2026-10-06T23:42:17.551945+00:00",
+        "event_type": "failed_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "failure",
+        "failure_reason": "expired_password"
+    },
+    {
+        "timestamp": "2026-10-06T23:53:32.551948+00:00",
+        "event_type": "failed_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "failure",
+        "failure_reason": "account_locked"
+    },
+    {
+        "timestamp": "2026-10-07T00:35:51.551953+00:00",
+        "event_type": "failed_login",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "department": "IT",
+        "status": "failure",
+        "failure_reason": "account_locked"
+    },
+    {
+        "timestamp": "2026-10-06T23:48:37.551956+00:00",
+        "event_type": "failed_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "department": "Finance",
+        "status": "failure",
+        "failure_reason": "expired_password"
+    },
+    {
+        "timestamp": "2026-10-06T23:59:55.551959+00:00",
+        "event_type": "failed_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "failure",
+        "failure_reason": "account_locked"
+    },
+    {
+        "timestamp": "2026-10-07T00:20:46.551962+00:00",
+        "event_type": "failed_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "department": "Sales",
+        "status": "failure",
+        "failure_reason": "account_locked"
+    },
+    {
+        "timestamp": "2026-10-06T23:57:30.551965+00:00",
+        "event_type": "failed_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "department": "HR",
+        "status": "failure",
+        "failure_reason": "bad_password"
+    },
+    {
+        "timestamp": "2026-10-06T23:41:43.551969+00:00",
+        "event_type": "failed_login",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "203.0.113.50",
+        "department": "Finance",
+        "status": "failure",
+        "failure_reason": "bad_password"
+    },
+    {
+        "timestamp": "2026-10-07T00:10:49.551974+00:00",
+        "event_type": "failed_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "203.0.113.75",
+        "department": "HR",
+        "status": "failure",
+        "failure_reason": "expired_password"
+    },
+    {
+        "timestamp": "2026-10-07T00:36:37.551977+00:00",
+        "event_type": "failed_login",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "198.51.100.40",
+        "department": "HR",
+        "status": "failure",
+        "failure_reason": "expired_password"
+    },
+    {
+        "timestamp": "2026-10-07T00:35:39.551980+00:00",
+        "event_type": "failed_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "203.0.113.75",
+        "department": "Sales",
+        "status": "failure",
+        "failure_reason": "expired_password"
+    },
+    {
+        "timestamp": "2026-10-06T23:52:53.551984+00:00",
+        "event_type": "failed_login",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "198.51.100.40",
+        "department": "Sales",
+        "status": "failure",
+        "failure_reason": "account_locked"
+    },
+    {
+        "timestamp": "2026-10-07T00:15:23.551989+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "winword.exe",
+        "command_line": "winword.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:39:21.551993+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:07:30.551997+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "teams.exe",
+        "command_line": "teams.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:27:38.552000+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "winword.exe",
+        "command_line": "winword.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:37:19.552003+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:35:40.552006+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:18.552009+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "excel.exe",
+        "command_line": "excel.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:36:28.552012+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "winword.exe",
+        "command_line": "winword.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:09:18.552015+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:19:37.552018+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "explorer.exe",
+        "command_line": "explorer.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:33:06.552021+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "winword.exe",
+        "command_line": "winword.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:34:05.552024+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:36:45.552026+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "teams.exe",
+        "command_line": "teams.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:45:40.552030+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "explorer.exe",
+        "command_line": "explorer.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:51.552032+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "winword.exe",
+        "command_line": "winword.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:43:00.552035+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "excel.exe",
+        "command_line": "excel.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:37:29.552038+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "excel.exe",
+        "command_line": "excel.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:55:56.552041+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "teams.exe",
+        "command_line": "teams.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:51:28.552044+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:27:02.552047+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "outlook.exe",
+        "command_line": "outlook.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:37:58.552051+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "explorer.exe",
+        "command_line": "explorer.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:56:55.552054+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "outlook.exe",
+        "command_line": "outlook.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:00:16.552058+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "teams.exe",
+        "command_line": "teams.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:53:20.552061+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:47:44.552064+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "msedge.exe",
+        "command_line": "msedge.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:49:06.552067+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "winword.exe",
+        "command_line": "winword.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:53:50.552070+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "outlook.exe",
+        "command_line": "outlook.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:40:08.552073+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:52:58.552076+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "excel.exe",
+        "command_line": "excel.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:47:44.552079+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "msedge.exe",
+        "command_line": "msedge.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:34:10.552082+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "outlook.exe",
+        "command_line": "outlook.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:29:27.552085+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:15:12.552088+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:36:40.552091+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "outlook.exe",
+        "command_line": "outlook.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:31:12.552094+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "explorer.exe",
+        "command_line": "explorer.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:38.552097+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:39:31.552100+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "teams.exe",
+        "command_line": "teams.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:05:17.552102+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "teams.exe",
+        "command_line": "teams.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:59:01.552106+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:55:49.552109+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:32:05.552113+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "explorer.exe",
+        "command_line": "explorer.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:32:48.552117+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "explorer.exe",
+        "command_line": "explorer.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:15:15.552119+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "excel.exe",
+        "command_line": "excel.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:16:40.552122+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:25:10.552125+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:51:53.552129+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "msedge.exe",
+        "command_line": "msedge.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:58:32.552131+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:15:20.552141+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "winword.exe",
+        "command_line": "winword.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:39:18.552144+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:07:58.552147+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "explorer.exe",
+        "command_line": "explorer.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:57:12.552150+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "winword.exe",
+        "command_line": "winword.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:27:58.552152+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "winword.exe",
+        "command_line": "winword.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:11:42.552155+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "winword.exe",
+        "command_line": "winword.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:42:03.552158+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "outlook.exe",
+        "command_line": "outlook.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:30:53.552161+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "teams.exe",
+        "command_line": "teams.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:45:25.552164+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "teams.exe",
+        "command_line": "teams.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:44:43.552167+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:27:27.552170+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "excel.exe",
+        "command_line": "excel.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:39:16.552173+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "msedge.exe",
+        "command_line": "msedge.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:08:28.552175+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "explorer.exe",
+        "command_line": "explorer.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:32:52.552178+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "winword.exe",
+        "command_line": "winword.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:42:59.552182+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:35:16.552185+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:11:45.552187+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "outlook.exe",
+        "command_line": "outlook.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:28:51.552190+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:29:43.552193+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "outlook.exe",
+        "command_line": "outlook.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:52:30.552203+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "outlook.exe",
+        "command_line": "outlook.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:46:10.552206+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:59:30.552209+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "excel.exe",
+        "command_line": "excel.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:25:01.552212+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:06:01.552214+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:20:12.552217+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "excel.exe",
+        "command_line": "excel.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:14:55.552220+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "msedge.exe",
+        "command_line": "msedge.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:33:41.552223+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "msedge.exe",
+        "command_line": "msedge.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:52:22.552226+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "msedge.exe",
+        "command_line": "msedge.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:08:08.552229+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:19:00.552233+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "chrome.exe",
+        "command_line": "chrome.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:15:49.552302+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "outlook.exe",
+        "command_line": "outlook.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:22:18.552308+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "explorer.exe",
+        "command_line": "explorer.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:30:28.552311+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "notepad.exe",
+        "command_line": "notepad.exe",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:29:16.552317+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -WindowStyle Hidden -Command Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:19.552323+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Date",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:52:43.552327+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Process",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:36:36.552331+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -EncodedCommand SQBFAFgA",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:10:20.552335+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Process",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:43:07.552339+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -WindowStyle Hidden -Command Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:27.552343+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -WindowStyle Hidden -Command Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:48:02.552346+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -ExecutionPolicy Bypass -Command Get-Process",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:12:27.552350+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Date",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:59:31.552354+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Process",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:53:53.552357+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:09:43.552362+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:24:04.552366+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -EncodedCommand SQBFAFgA",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:18:58.552370+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:03:37.552373+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -EncodedCommand SQBFAFgA",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:25:53.552377+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Date",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:23:54.552380+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -WindowStyle Hidden -Command Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:43:03.552384+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -WindowStyle Hidden -Command Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:36:46.552387+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Date",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:15:12.552391+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Date",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:29:39.552396+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -WindowStyle Hidden -Command Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:21:01.552400+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -EncodedCommand SQBFAFgA",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:15:41.552403+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Date",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:55:44.552407+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Process",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:51:28.552411+00:00",
+        "event_type": "process_start",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:33:12.552414+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -EncodedCommand SQBFAFgA",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:11:38.552418+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -WindowStyle Hidden -Command Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:12:06.552421+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -ExecutionPolicy Bypass -Command Get-Process",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:55.552425+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Date",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:57:29.552429+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:34:21.552432+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Date",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:23:13.552436+00:00",
+        "event_type": "process_start",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -ExecutionPolicy Bypass -Command Get-Process",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:16:15.552440+00:00",
+        "event_type": "process_start",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe Get-Date",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:25:07.552443+00:00",
+        "event_type": "process_start",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -ExecutionPolicy Bypass -Command Get-Process",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-06T23:56:42.552447+00:00",
+        "event_type": "process_start",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "process": "powershell.exe",
+        "command_line": "powershell.exe -WindowStyle Hidden -Command Get-Service",
+        "status": "success"
+    },
+    {
+        "timestamp": "2026-10-07T00:18:16.552454+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:11:03.552459+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:12:39.552464+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:05:58.552468+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:41:19.552474+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:26:12.552478+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:36:20.552482+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:33.552486+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:53:22.552490+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:51:25.552494+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:05:23.552498+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:27:13.552502+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:43:07.552506+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:46:01.552511+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:29:31.552515+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:19:28.552519+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:44:40.552523+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:48.552527+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:58:28.552530+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:37.552534+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:45:50.552538+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:54:44.552542+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:03:16.552546+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:59:35.552550+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:54:58.552555+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:08:56.552559+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:03.552563+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:50:53.552568+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:12:29.552573+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:15:40.552577+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:16:06.552581+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:52:36.552585+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:29:01.552589+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:24:26.552594+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:44:05.552598+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:51:16.552602+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:03.552606+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:18:18.552611+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:55:08.552622+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:30:28.552626+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:41:03.552630+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:23:39.552634+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:12:42.552638+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:06:00.552643+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:12:49.552647+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:43:50.552651+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:46:12.552654+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:25:22.552658+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:21:41.552662+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:41:45.552666+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:31:47.552670+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:18:57.552674+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:01:41.552678+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:08:31.552682+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:22:46.552686+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:25:19.552690+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:06:16.552694+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:35:05.552699+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:14:35.552703+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:39:04.552707+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:23:44.552711+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:50:28.552715+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:50:15.552719+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:41:28.552724+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:54:36.552728+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:12.552733+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:32:44.552737+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:49:18.552741+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:14:33.552745+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:01:10.552749+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:48:46.552753+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:40:12.552757+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:05:05.552760+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:35:20.552764+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:21:11.552768+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:01:35.552772+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:42:21.552776+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:46:54.552780+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:18.552784+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:57:42.552789+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:15:41.552794+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:14:41.552798+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:24:48.552803+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:52:20.552807+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:33:12.552810+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:58:38.552814+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:42:59.552818+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:50:37.552822+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:38:59.552826+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:09:32.552829+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:25.552833+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:45:20.552837+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:39:24.552841+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:18:04.552845+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:54.552849+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:02:46.552853+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:36:21.552856+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:01:40.552860+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:05:52.552864+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:27:25.552868+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:16:40.552872+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:43:54.552882+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:23:02.552889+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:32:58.552893+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:56:05.552897+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:59:23.552901+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:08.552905+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:26:54.552909+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:08:06.552913+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:47:29.552917+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:41:17.552921+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:27:55.552925+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:13:23.552929+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:28:43.552933+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:21:52.552937+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:33:00.552940+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:55:45.552951+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "domain": "microsoft.com",
+        "dest_ip": "192.0.2.10",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:20:47.552955+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:51:14.552959+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:55:37.552963+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "dest_ip": "203.0.113.99",
+        "dest_port": 8080,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:17:45.552967+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "domain": "github.com",
+        "dest_ip": "192.0.2.12",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:15:26.552972+00:00",
+        "event_type": "network_connection",
+        "user": "piotr.kaminski",
+        "host": "MKT-PC-01",
+        "src_ip": "10.0.0.14",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:47:16.552976+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:50:30.552980+00:00",
+        "event_type": "network_connection",
+        "user": "anna.nowak",
+        "host": "HR-PC-01",
+        "src_ip": "10.0.0.11",
+        "domain": "google.com",
+        "dest_ip": "192.0.2.13",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:24:55.552983+00:00",
+        "event_type": "network_connection",
+        "user": "tomasz.wisniewski",
+        "host": "IT-PC-01",
+        "src_ip": "10.0.0.12",
+        "domain": "office.com",
+        "dest_ip": "192.0.2.11",
+        "dest_port": 443,
+        "protocol": "TCP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-07T00:14:51.552988+00:00",
+        "event_type": "network_connection",
+        "user": "jan.kowalski",
+        "host": "FIN-PC-01",
+        "src_ip": "10.0.0.10",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "UDP",
+        "status": "allowed"
+    },
+    {
+        "timestamp": "2026-10-06T23:51:54.552991+00:00",
+        "event_type": "network_connection",
+        "user": "karolina.wojcik",
+        "host": "SALES-PC-01",
+        "src_ip": "10.0.0.13",
+        "dest_ip": "198.51.100.77",
+        "dest_port": 4444,
+        "protocol": "TCP",
+        "status": "allowed"
+    }
+]
